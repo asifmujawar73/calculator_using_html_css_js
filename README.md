@@ -13,3 +13,6 @@ This is a unique and beautifully designed animated calculator built with HTML, C
 - HTML
 - CSS
 - JavaScript
+
+
+You can checkout the live project here -- https://asifmujawar73.github.io/calculator_using_html_css_js/
